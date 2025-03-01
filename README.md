@@ -83,7 +83,7 @@ Currently, the master branch of Hummingbot also includes the following exchange 
 | `ndax` | NDAX | CEX | CLOB Spot | [Docs](https://hummingbot.org/exchanges/ndax/) | - |
 | `openocean` | OpenOcean | DEX | AMM | [Docs](https://hummingbot.org/exchanges/openocean/) | - |
 | `pancakeswap` | PancakeSwap | DEX | AMM | [Docs](https://hummingbot.org/exchanges/pancakeswap/) | - |
-| `pangolin` | Pangolin | CEX | DEX | [Docs](https://hummingbot.org/exchanges/pangolin/) | - |
+| `pangolin` | Pangolin | DEX | DEX | [Docs](https://hummingbot.org/exchanges/pangolin/) | - |
 | `polkadex` | Polkadex | DEX | CLOB Spot | [Docs](https://hummingbot.org/exchanges/polkadex/) | - |
 | `quickswap` | QuickSwap | DEX | AMM | [Docs](https://hummingbot.org/exchanges/quickswap/) | - |
 | `sushiswap` | SushiSwap | DEX | AMM | [Docs](https://hummingbot.org/exchanges/sushiswap/) | - |
@@ -98,7 +98,7 @@ Currently, the master branch of Hummingbot also includes the following exchange 
 
 * [Deploy](https://github.com/hummingbot/deploy): Deploy Hummingbot in various configurations with Docker
 * [Dashboard](https://github.com/hummingbot/dashboard): Web app that help you create, backtest, deploy, and manage Hummingbot instances
-* [Quants Lab](https://github.com/hummingbot/quants-lab): Juypter notebooks that enable you to fetch data and perform research using Hummingbot
+* [Quants Lab](https://github.com/hummingbot/quants-lab): Jupyter notebooks that enable you to fetch data and perform research using Hummingbot
 * [Gateway](https://github.com/hummingbot/gateway): Typescript based API client for DEX connectors
 * [Hummingbot Site](https://github.com/hummingbot/hummingbot-site): Official documentation for Hummingbot - we welcome contributions here too!
 
